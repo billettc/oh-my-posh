@@ -1,4 +1,5 @@
 # Others
+.idea/
 
 .fleet/
 src/test/umbraco/obj/
